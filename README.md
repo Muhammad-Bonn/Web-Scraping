@@ -1,2 +1,2 @@
-# Web Scraping Mini Projects
-Mini Projects in Web Scraping using Python
+# Web Scraping Projects
+Projects in Web Scraping using Python and Jupyter Notebook
