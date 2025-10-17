@@ -1,0 +1,388 @@
+Club,Squad Size,Avg Age,Foreigners,Avg Market Value (EUR),Total Market Value (EUR),Team URL,Year
+Al Ahly FC,34,23.9,4,,,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2000,2000
+Zamalek SC,29,26.3,0,,,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2000,2000
+El Mokawloon SC,23,25.0,0,,,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2000,2000
+Ismaily SC,28,25.2,3,,,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2000,2000
+Ittihad Alexandria SC,28,25.6,2,,,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2000,2000
+Dina Farms,31,25.6,2,,,https://www.transfermarkt.com/dina-farms/startseite/verein/8586/saison_id/2000,2000
+El Masry SC,24,26.0,1,,,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2000,2000
+Koroum,24,25.2,0,,,https://www.transfermarkt.com/koroum/startseite/verein/9221/saison_id/2000,2000
+Tersana FC,27,26.3,3,,,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2000,2000
+Ghazl El Mahalla,25,26.4,0,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2000,2000
+Mansoura SC,26,23.9,0,,,https://www.transfermarkt.com/mansoura-sc/startseite/verein/19466/saison_id/2000,2000
+Qanah FC,27,26.6,2,,,https://www.transfermarkt.com/qanah-fc/startseite/verein/24297/saison_id/2000,2000
+El Maaden,26,29.0,1,,,https://www.transfermarkt.com/goldi-club/startseite/verein/51214/saison_id/2000,2000
+Sekka El Hadid Sohag,24,27.1,1,,,https://www.transfermarkt.com/sekka-el-hadid-sohag/startseite/verein/81628/saison_id/2000,2000
+Al Ahly FC,35,24.7,4,,,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2001,2001
+Zamalek SC,34,25.9,2,,,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2001,2001
+El Mokawloon SC,27,25.7,1,,,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2001,2001
+Ismaily SC,27,24.6,3,,,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2001,2001
+Ittihad Alexandria SC,27,24.4,2,,,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2001,2001
+Baladiyat El Mahalla,25,27.4,2,,,https://www.transfermarkt.com/baladiya-mahalla/startseite/verein/9093/saison_id/2001,2001
+El Masry SC,27,25.7,2,,,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2001,2001
+Tersana FC,23,25.7,2,,,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2001,2001
+Ghazl El Mahalla,26,26.4,0,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2001,2001
+Mansoura SC,27,24.6,0,,,https://www.transfermarkt.com/mansoura-sc/startseite/verein/19466/saison_id/2001,2001
+Sohag FC,25,28.7,0,,,https://www.transfermarkt.com/sohag-fc/startseite/verein/23471/saison_id/2001,2001
+Qanah FC,27,25.7,2,,,https://www.transfermarkt.com/qanah-fc/startseite/verein/24297/saison_id/2001,2001
+Goldi Club,27,27.7,4,,,https://www.transfermarkt.com/goldi-club/startseite/verein/51214/saison_id/2001,2001
+Ghazl Suez,25,26.3,2,,,https://www.transfermarkt.com/ghazl-suez/startseite/verein/81629/saison_id/2001,2001
+Al Ahly FC,31,25.2,3,,,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2002,2002
+Zamalek SC,35,25.7,0,,,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2002,2002
+El Mokawloon SC,28,26.1,1,,,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2002,2002
+Ismaily SC,34,24.3,3,,,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2002,2002
+Ittihad Alexandria SC,28,25.6,2,,,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2002,2002
+Baladiyat El Mahalla,23,26.7,1,,,https://www.transfermarkt.com/baladiya-mahalla/startseite/verein/9093/saison_id/2002,2002
+El Masry SC,26,26.4,1,,,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2002,2002
+Enppi SC,22,27.6,0,,,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2002,2002
+Tersana FC,26,26.1,1,,,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2002,2002
+Harras El Hodoud,26,26.3,1,,,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2002,2002
+Ghazl El Mahalla,25,26.5,0,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2002,2002
+Mansoura SC,24,24.0,0,,,https://www.transfermarkt.com/mansoura-sc/startseite/verein/19466/saison_id/2002,2002
+Aswan SC,25,26.3,1,,,https://www.transfermarkt.com/aswan-sc/startseite/verein/22507/saison_id/2002,2002
+Goldi Club,25,26.9,2,,,https://www.transfermarkt.com/goldi-club/startseite/verein/51214/saison_id/2002,2002
+Al Ahly FC,39,24.0,2,,,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2003,2003
+Zamalek SC,36,25.7,0,,,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2003,2003
+Ismaily SC,37,23.4,5,,,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2003,2003
+Ittihad Alexandria SC,31,25.9,4,,,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2003,2003
+Baladiyat El Mahalla,29,25.0,2,,,https://www.transfermarkt.com/baladiya-mahalla/startseite/verein/9093/saison_id/2003,2003
+El Masry SC,30,24.7,2,,,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2003,2003
+Enppi SC,30,26.9,0,,,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2003,2003
+Koroum,21,28.3,3,,,https://www.transfermarkt.com/koroum/startseite/verein/9221/saison_id/2003,2003
+Tersana FC,36,26.0,1,,,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2003,2003
+Harras El Hodoud,32,26.7,1,,,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2003,2003
+Ghazl El Mahalla,26,25.9,0,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2003,2003
+Mansoura SC,34,23.6,0,,,https://www.transfermarkt.com/mansoura-sc/startseite/verein/19466/saison_id/2003,2003
+Aswan SC,17,26.9,0,,,https://www.transfermarkt.com/aswan-sc/startseite/verein/22507/saison_id/2003,2003
+Qanah FC,27,25.5,2,,,https://www.transfermarkt.com/qanah-fc/startseite/verein/24297/saison_id/2003,2003
+Zamalek SC,38,24.8,4,55000.0,2.1,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2004,2004
+Ismaily SC,32,23.9,4,59000.0,1.9,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2004,2004
+Al Ahly FC,34,25.8,5,22000.0,750000.0,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2004,2004
+Tala'ea El Gaish,26,27.8,1,15000.0,400000.0,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2004,2004
+El Masry SC,27,25.9,4,13000.0,350000.0,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2004,2004
+Ittihad Alexandria SC,25,27.6,2,,,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2004,2004
+Baladiyat El Mahalla,27,25.2,2,,,https://www.transfermarkt.com/baladiya-mahalla/startseite/verein/9093/saison_id/2004,2004
+Enppi SC,27,26.7,2,,,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2004,2004
+Tersana FC,27,26.2,2,,,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2004,2004
+Harras El Hodoud,21,27.4,1,,,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2004,2004
+Ghazl El Mahalla,25,26.3,0,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2004,2004
+Suez Cement,26,26.4,3,,,https://www.transfermarkt.com/suez-cement/startseite/verein/13448/saison_id/2004,2004
+Asyut Cement,19,26.0,2,,,https://www.transfermarkt.com/asyut-cement/startseite/verein/18226/saison_id/2004,2004
+Mansoura SC,20,23.7,0,,,https://www.transfermarkt.com/mansoura-sc/startseite/verein/19466/saison_id/2004,2004
+Al Ahly FC,39,25.5,4,179000.0,7.0,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2005,2005
+Enppi SC,29,26.8,2,69000.0,2.0,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2005,2005
+Zamalek SC,33,26.6,3,55000.0,1.8,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2005,2005
+Ismaily SC,31,24.1,3,24000.0,750000.0,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2005,2005
+El Masry SC,30,25.6,3,18000.0,550000.0,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2005,2005
+Tala'ea El Gaish,25,27.5,1,16000.0,400000.0,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2005,2005
+Ittihad Alexandria SC,27,27.0,3,13000.0,350000.0,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2005,2005
+Harras El Hodoud,25,27.1,2,12000.0,300000.0,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2005,2005
+El Mokawloon SC,25,26.1,1,,,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2005,2005
+Koroum,21,28.3,2,,,https://www.transfermarkt.com/koroum/startseite/verein/9221/saison_id/2005,2005
+Ghazl El Mahalla,25,26.4,1,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2005,2005
+Suez Cement,26,26.6,1,,,https://www.transfermarkt.com/suez-cement/startseite/verein/13448/saison_id/2005,2005
+Aluminium Nag Hamadi,25,26.1,1,,,https://www.transfermarkt.com/aluminium-nag-hamadi/startseite/verein/16215/saison_id/2005,2005
+Asyut Cement,25,26.7,2,,,https://www.transfermarkt.com/asyut-cement/startseite/verein/18226/saison_id/2005,2005
+Al Ahly FC,41,26.2,4,284000.0,11.65,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2006,2006
+Zamalek SC,35,26.7,4,157000.0,5.5,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2006,2006
+Ismaily SC,30,25.1,3,70000.0,2.1,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2006,2006
+El Masry SC,25,26.1,4,30000.0,750000.0,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2006,2006
+El Mokawloon SC,26,28.1,3,19000.0,500000.0,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2006,2006
+Tala'ea El Gaish,22,28.0,1,18000.0,400000.0,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2006,2006
+Ittihad Alexandria SC,29,29.0,4,12000.0,350000.0,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2006,2006
+Petrojet,23,27.8,2,13000.0,300000.0,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2006,2006
+Harras El Hodoud,23,26.7,2,13000.0,300000.0,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2006,2006
+Enppi SC,43,26.9,4,,,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2006,2006
+Tersana FC,25,28.7,2,,,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2006,2006
+Ghazl El Mahalla,20,26.9,0,,,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2006,2006
+Suez Cement,25,26.9,1,,,https://www.transfermarkt.com/suez-cement/startseite/verein/13448/saison_id/2006,2006
+Petrol Asyut,22,27.4,3,,,https://www.transfermarkt.com/asyut-petrol/startseite/verein/16216/saison_id/2006,2006
+Olympic Alexandria,23,26.2,3,,,https://www.transfermarkt.com/olympic-alexandria/startseite/verein/16217/saison_id/2006,2006
+Tanta SC,29,27.2,3,,,https://www.transfermarkt.com/tanta-sc/startseite/verein/23223/saison_id/2006,2006
+Al Ahly FC,41,26.1,3,594000.0,24.35,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2007,2007
+Zamalek SC,36,26.7,4,438000.0,15.75,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2007,2007
+Ismaily SC,29,25.0,4,309000.0,8.98,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2007,2007
+Harras El Hodoud,29,26.6,3,65000.0,1.88,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2007,2007
+Enppi SC,41,25.7,3,40000.0,1.65,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2007,2007
+Ittihad Alexandria SC,34,29.0,2,18000.0,600000.0,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2007,2007
+Tersana FC,25,27.9,3,24000.0,600000.0,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2007,2007
+El Masry SC,33,26.0,5,17000.0,550000.0,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2007,2007
+Tala'ea El Gaish,27,28.4,1,20000.0,550000.0,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2007,2007
+Petrojet,29,28.3,4,19000.0,550000.0,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2007,2007
+El Mokawloon SC,30,26.6,4,13000.0,400000.0,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2007,2007
+Ghazl El Mahalla,26,26.3,2,15000.0,400000.0,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2007,2007
+Baladiyat El Mahalla,27,26.7,2,7000.0,200000.0,https://www.transfermarkt.com/baladiya-mahalla/startseite/verein/9093/saison_id/2007,2007
+Telecom Egypt Sports Club,27,29.0,2,,,https://www.transfermarkt.com/etisalat/startseite/verein/13447/saison_id/2007,2007
+Suez Cement,33,26.8,2,,,https://www.transfermarkt.com/suez-cement/startseite/verein/13448/saison_id/2007,2007
+Aluminium Nag Hamadi,28,26.2,3,,,https://www.transfermarkt.com/aluminium-nag-hamadi/startseite/verein/16215/saison_id/2007,2007
+Al Ahly FC,33,27.1,5,663000.0,21.88,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2008,2008
+Zamalek SC,37,25.9,4,308000.0,11.4,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2008,2008
+Ismaily SC,34,25.2,4,223000.0,7.58,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2008,2008
+Enppi SC,34,25.9,4,157000.0,5.35,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2008,2008
+Harras El Hodoud,25,27.7,3,124000.0,3.1,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2008,2008
+Telecom Egypt Sports Club,33,26.9,4,93000.0,3.07,https://www.transfermarkt.com/etisalat/startseite/verein/13447/saison_id/2008,2008
+Petrojet,30,27.6,5,96000.0,2.87,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2008,2008
+El Masry SC,32,25.8,5,89000.0,2.85,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2008,2008
+Ittihad Alexandria SC,34,28.4,3,77000.0,2.63,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2008,2008
+Tersana FC,32,28.7,3,74000.0,2.37,https://www.transfermarkt.com/tersana-fc/startseite/verein/10765/saison_id/2008,2008
+El Mokawloon SC,30,26.4,3,73000.0,2.2,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2008,2008
+Tala'ea El Gaish,32,29.3,2,64000.0,2.05,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2008,2008
+El Shorta,32,26.4,4,60000.0,1.93,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2008,2008
+Petrol Asyut,35,27.1,3,44000.0,1.53,https://www.transfermarkt.com/asyut-petrol/startseite/verein/16216/saison_id/2008,2008
+Ghazl El Mahalla,36,26.5,2,15000.0,525000.0,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2008,2008
+Olympic Alexandria,33,27.5,3,9000.0,300000.0,https://www.transfermarkt.com/olympic-alexandria/startseite/verein/16217/saison_id/2008,2008
+Al Ahly FC,42,25.9,6,565000.0,23.75,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2009,2009
+Zamalek SC,33,25.2,3,573000.0,18.9,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2009,2009
+Ismaily SC,36,26.2,6,324000.0,11.65,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2009,2009
+Enppi SC,34,25.8,3,169000.0,5.75,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2009,2009
+Petrojet,28,27.1,3,172000.0,4.83,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2009,2009
+Ittihad Alexandria SC,32,27.2,2,130000.0,4.15,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2009,2009
+Harras El Hodoud,32,26.4,5,116000.0,3.7,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2009,2009
+El Gouna FC,30,26.8,3,109000.0,3.28,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2009,2009
+El Masry SC,37,25.8,5,84000.0,3.13,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2009,2009
+Tala'ea El Gaish,31,27.9,3,94000.0,2.93,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2009,2009
+El Mokawloon SC,28,26.3,4,91000.0,2.55,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2009,2009
+El Shorta,29,26.6,3,84000.0,2.43,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2009,2009
+Ghazl El Mahalla,35,27.1,0,59000.0,2.08,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2009,2009
+Entag El Harby,26,29.1,2,64000.0,1.68,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2009,2009
+Mansoura SC,37,26.1,1,45000.0,1.65,https://www.transfermarkt.com/mansoura-sc/startseite/verein/19466/saison_id/2009,2009
+Petrol Asyut,36,26.2,4,35000.0,1.25,https://www.transfermarkt.com/asyut-petrol/startseite/verein/16216/saison_id/2009,2009
+Al Ahly FC,43,25.8,5,551000.0,23.7,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2010,2010
+Zamalek SC,40,26.2,5,484000.0,19.38,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2010,2010
+Ismaily SC,35,25.6,4,261000.0,9.13,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2010,2010
+Enppi SC,34,25.4,3,155000.0,5.28,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2010,2010
+Petrojet,38,26.4,3,132000.0,5.0,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2010,2010
+El Gouna FC,37,27.6,5,116000.0,4.28,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2010,2010
+El Masry SC,32,25.8,3,126000.0,4.03,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2010,2010
+Ittihad Alexandria SC,44,25.5,4,86000.0,3.78,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2010,2010
+Tala'ea El Gaish,40,28.1,5,89000.0,3.55,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2010,2010
+El Shorta,35,26.0,5,99000.0,3.45,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2010,2010
+Harras El Hodoud,35,27.0,5,87000.0,3.05,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2010,2010
+Wadi Degla FC,35,27.3,4,86000.0,3.0,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2010,2010
+Smouha SC,39,27.7,6,75000.0,2.93,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2010,2010
+El Mokawloon SC,42,25.5,6,67000.0,2.8,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2010,2010
+Masr El Makasa,35,28.3,3,79000.0,2.75,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2010,2010
+Entag El Harby,30,28.9,3,72000.0,2.15,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2010,2010
+Al Ahly FC,41,25.7,6,494000.0,20.25,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2014,2014
+Zamalek SC,39,26.1,3,377000.0,14.7,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2014,2014
+Ismaily SC,38,24.6,6,230000.0,8.73,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2014,2014
+Smouha SC,44,26.3,6,189000.0,8.3,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2014,2014
+Enppi SC,34,25.8,2,199000.0,6.75,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2014,2014
+Harras El Hodoud,35,26.5,2,148000.0,5.18,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2014,2014
+Ittihad Alexandria SC,45,26.7,4,114000.0,5.13,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2014,2014
+Wadi Degla FC,38,25.7,3,134000.0,5.1,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2014,2014
+Petrojet,38,25.9,4,132000.0,5.03,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2014,2014
+El Mokawloon SC,32,26.7,3,156000.0,5.0,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2014,2014
+El Masry SC,36,26.4,3,138000.0,4.95,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2014,2014
+Masr El Makasa,39,27.5,5,124000.0,4.83,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2014,2014
+Tala'ea El Gaish,34,26.4,2,141000.0,4.8,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2014,2014
+El Gouna FC,34,26.2,4,115000.0,3.9,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2014,2014
+El Dakhlia SC,37,27.1,4,97000.0,3.6,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2014,2014
+El Shorta,34,27.1,3,106000.0,3.6,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2014,2014
+El Raja Marsa Matruh,37,26.3,3,79000.0,2.93,https://www.transfermarkt.com/el-raja-marsa-matruh/startseite/verein/28571/saison_id/2014,2014
+Ala'ab Damanhour,36,27.5,4,71000.0,2.55,https://www.transfermarkt.com/alaab-damanhour/startseite/verein/26591/saison_id/2014,2014
+El Nasr,38,25.1,4,53000.0,2.0,https://www.transfermarkt.com/el-nasr/startseite/verein/23469/saison_id/2014,2014
+Alassiouty Sport,31,26.1,4,56000.0,1.75,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2014,2014
+Al Ahly FC,31,27.4,3,613000.0,19.0,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2011,2011
+Zamalek SC,31,26.4,4,502000.0,15.58,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2011,2011
+Ismaily SC,29,26.8,5,327000.0,9.48,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2011,2011
+Enppi SC,32,26.0,4,183000.0,5.85,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2011,2011
+El Masry SC,27,26.4,2,189000.0,5.1,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2011,2011
+Masr El Makasa,35,28.9,4,136000.0,4.78,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2011,2011
+El Mokawloon SC,28,25.1,4,158000.0,4.43,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2011,2011
+Harras El Hodoud,25,27.2,2,170000.0,4.25,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2011,2011
+Petrojet,33,27.3,2,121000.0,4.0,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2011,2011
+Ittihad Alexandria SC,34,26.5,3,104000.0,3.55,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2011,2011
+Smouha SC,36,27.9,4,97000.0,3.48,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2011,2011
+El Gouna FC,30,27.3,3,115000.0,3.45,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2011,2011
+Telefonat Beni Suef,34,27.5,3,97000.0,3.3,https://www.transfermarkt.com/telefonat-beni-suef/startseite/verein/27291/saison_id/2011,2011
+El Shorta,27,25.9,3,116000.0,3.13,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2011,2011
+Wadi Degla FC,29,28.1,3,108000.0,3.13,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2011,2011
+Tala'ea El Gaish,28,28.4,3,108000.0,3.03,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2011,2011
+Entag El Harby,31,27.3,3,69000.0,2.15,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2011,2011
+El Dakhlia SC,33,26.8,4,50000.0,1.65,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2011,2011
+Ghazl El Mahalla,33,27.8,2,32000.0,1.05,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2011,2011
+Al Ahly FC,31,27.4,2,617000.0,19.13,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2012,2012
+Zamalek SC,31,27.0,3,432000.0,13.4,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2012,2012
+Ismaily SC,41,24.5,5,173000.0,7.1,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2012,2012
+Enppi SC,34,26.3,2,179000.0,6.08,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2012,2012
+Harras El Hodoud,29,27.5,1,167000.0,4.85,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2012,2012
+Smouha SC,32,29.6,3,143000.0,4.58,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2012,2012
+Petrojet,29,25.5,2,139000.0,4.03,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2012,2012
+Masr El Makasa,27,29.2,2,134000.0,3.63,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2012,2012
+El Shorta,26,26.9,3,127000.0,3.3,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2012,2012
+Telefonat Beni Suef,30,28.0,2,106000.0,3.18,https://www.transfermarkt.com/telefonat-beni-suef/startseite/verein/27291/saison_id/2012,2012
+Tala'ea El Gaish,36,27.3,4,88000.0,3.18,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2012,2012
+Wadi Degla FC,36,24.6,5,85000.0,3.08,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2012,2012
+El Gouna FC,28,26.9,1,105000.0,2.95,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2012,2012
+Entag El Harby,43,27.9,2,68000.0,2.93,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2012,2012
+El Mokawloon SC,31,25.5,4,93000.0,2.88,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2012,2012
+Ittihad Alexandria SC,35,26.5,1,76000.0,2.65,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2012,2012
+El Dakhlia SC,37,27.0,5,58000.0,2.15,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2012,2012
+Ghazl El Mahalla,37,27.7,2,51000.0,1.88,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2012,2012
+Al Ahly FC,42,26.5,2,404000.0,16.98,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2013,2013
+Zamalek SC,36,26.4,2,294000.0,10.6,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2013,2013
+Ismaily SC,35,24.6,5,195000.0,6.83,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2013,2013
+Enppi SC,35,24.7,2,166000.0,5.83,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2013,2013
+Smouha SC,25,27.3,3,186000.0,4.65,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2013,2013
+Ittihad Alexandria SC,32,27.9,3,138000.0,4.4,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2013,2013
+El Gouna FC,30,26.3,4,132000.0,3.95,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2013,2013
+El Mokawloon SC,28,26.0,1,139000.0,3.9,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2013,2013
+El Masry SC,28,26.6,2,135000.0,3.78,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2013,2013
+Harras El Hodoud,30,27.8,0,124000.0,3.73,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2013,2013
+Masr El Makasa,28,29.9,4,131000.0,3.68,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2013,2013
+Wadi Degla FC,37,25.8,3,98000.0,3.63,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2013,2013
+Ghazl El Mahalla,36,28.3,2,96000.0,3.45,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2013,2013
+Petrojet,30,25.9,4,113000.0,3.38,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2013,2013
+Tala'ea El Gaish,35,26.7,3,87000.0,3.05,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2013,2013
+El Shorta,33,28.2,2,89000.0,2.93,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2013,2013
+El Dakhlia SC,32,27.3,3,84000.0,2.7,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2013,2013
+Entag El Harby,34,27.2,3,76000.0,2.58,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2013,2013
+Qanah FC,36,26.5,3,65000.0,2.35,https://www.transfermarkt.com/qanah-fc/startseite/verein/24297/saison_id/2013,2013
+Telefonat Beni Suef,35,27.0,1,58000.0,2.03,https://www.transfermarkt.com/telefonat-beni-suef/startseite/verein/27291/saison_id/2013,2013
+El Minya SC,34,28.3,0,35000.0,1.2,https://www.transfermarkt.com/el-minya-fc/startseite/verein/38508/saison_id/2013,2013
+El Raja Marsa Matruh,32,26.6,1,35000.0,1.13,https://www.transfermarkt.com/el-raja-marsa-matruh/startseite/verein/28571/saison_id/2013,2013
+Al Ahly FC,33,26.4,3,639000.0,21.1,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2015,2015
+Zamalek SC,35,26.1,4,579000.0,20.25,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2015,2015
+Ismaily SC,37,25.2,3,224000.0,8.3,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2015,2015
+Smouha SC,34,26.7,4,238000.0,8.1,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2015,2015
+Enppi SC,35,26.0,3,216000.0,7.55,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2015,2015
+Wadi Degla FC,33,26.0,3,205000.0,6.78,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2015,2015
+Masr El Makasa,32,25.7,3,170000.0,5.45,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2015,2015
+Tala'ea El Gaish,32,26.1,4,163000.0,5.23,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2015,2015
+Petrojet,37,26.6,3,138000.0,5.1,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2015,2015
+Entag El Harby,32,28.3,3,158000.0,5.05,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2015,2015
+El Mokawloon SC,37,26.0,3,135000.0,5.0,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2015,2015
+El Masry SC,35,25.3,4,132000.0,4.63,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2015,2015
+Ittihad Alexandria SC,34,26.2,5,135000.0,4.6,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2015,2015
+El Dakhlia SC,34,26.6,3,129000.0,4.4,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2015,2015
+Harras El Hodoud,39,25.7,2,99000.0,3.85,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2015,2015
+El Shorta,30,27.4,3,110000.0,3.3,https://www.transfermarkt.com/el-shorta/startseite/verein/18268/saison_id/2015,2015
+Aswan SC,33,26.1,4,95000.0,3.13,https://www.transfermarkt.com/aswan-sc/startseite/verein/22507/saison_id/2015,2015
+Ghazl El Mahalla,40,24.2,1,67000.0,2.68,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2015,2015
+Zamalek SC,42,26.5,4,486000.0,20.43,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2016,2016
+Al Ahly FC,39,26.7,5,504000.0,19.65,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2016,2016
+Smouha SC,34,27.4,3,240000.0,8.15,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2016,2016
+Ismaily SC,39,24.9,4,184000.0,7.18,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2016,2016
+Masr El Makasa,32,25.9,5,198000.0,6.33,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2016,2016
+Enppi SC,37,25.4,3,169000.0,6.25,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2016,2016
+El Masry SC,36,26.5,4,172000.0,6.2,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2016,2016
+Wadi Degla FC,37,24.2,5,159000.0,5.88,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2016,2016
+El Mokawloon SC,38,26.9,3,139000.0,5.28,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2016,2016
+Tala'ea El Gaish,35,26.7,4,141000.0,4.93,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2016,2016
+Petrojet,37,26.1,3,130000.0,4.83,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2016,2016
+Ittihad Alexandria SC,32,26.5,2,151000.0,4.83,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2016,2016
+Entag El Harby,31,28.6,3,152000.0,4.7,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2016,2016
+Aswan SC,37,26.7,4,102000.0,3.78,https://www.transfermarkt.com/aswan-sc/startseite/verein/22507/saison_id/2016,2016
+El Dakhlia SC,37,26.4,3,100000.0,3.7,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2016,2016
+El Sharkia Zagazig,38,26.8,3,84000.0,3.18,https://www.transfermarkt.com/el-sharkia-zagazig/startseite/verein/39576/saison_id/2016,2016
+Tanta SC,34,25.9,3,63000.0,2.13,https://www.transfermarkt.com/tanta-sc/startseite/verein/23223/saison_id/2016,2016
+El Nasr Tadeen,32,27.9,4,51000.0,1.63,https://www.transfermarkt.com/el-nasr-tadeen/startseite/verein/53722/saison_id/2016,2016
+Al Ahly FC,45,26.7,5,617000.0,27.75,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2017,2017
+Zamalek SC,38,26.3,7,529000.0,20.1,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2017,2017
+Ismaily SC,35,25.2,4,331000.0,11.58,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2017,2017
+Masr El Makasa,41,26.7,5,252000.0,10.33,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2017,2017
+El Masry SC,47,27.4,10,197000.0,9.28,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2017,2017
+Smouha SC,40,26.8,7,229000.0,9.18,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2017,2017
+Ittihad Alexandria SC,38,26.3,6,183000.0,6.95,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2017,2017
+Wadi Degla FC,42,25.8,8,154000.0,6.48,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2017,2017
+Petrojet,42,27.1,6,154000.0,6.45,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2017,2017
+Enppi SC,38,24.8,5,163000.0,6.18,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2017,2017
+El Mokawloon SC,41,26.9,5,146000.0,6.0,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2017,2017
+Tala'ea El Gaish,39,26.8,5,144000.0,5.63,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2017,2017
+Entag El Harby,33,27.1,5,154000.0,5.08,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2017,2017
+Tanta SC,36,27.5,5,135000.0,4.85,https://www.transfermarkt.com/tanta-sc/startseite/verein/23223/saison_id/2017,2017
+Alassiouty Sport,36,26.3,6,131000.0,4.73,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2017,2017
+El Raja Marsa Matruh,46,27.0,5,93000.0,4.3,https://www.transfermarkt.com/el-raja-marsa-matruh/startseite/verein/28571/saison_id/2017,2017
+El Dakhlia SC,34,26.4,4,123000.0,4.18,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2017,2017
+El Nasr,33,25.0,3,92000.0,3.05,https://www.transfermarkt.com/el-nasr/startseite/verein/23469/saison_id/2017,2017
+Pyramids FC,48,26.4,13,1.01,48.3,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2018,2018
+Al Ahly FC,54,26.2,5,653000.0,35.25,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2018,2018
+Zamalek SC,51,27.0,9,635000.0,32.38,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2018,2018
+Masr El Makasa,48,27.1,7,246000.0,11.83,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2018,2018
+Ismaily SC,44,25.3,7,235000.0,10.33,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2018,2018
+Ittihad Alexandria SC,48,28.0,8,197000.0,9.48,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2018,2018
+Smouha SC,46,25.9,6,184000.0,8.48,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2018,2018
+El Masry SC,43,26.6,8,182000.0,7.83,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2018,2018
+Enppi SC,47,25.6,7,156000.0,7.33,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2018,2018
+Wadi Degla FC,35,25.9,4,207000.0,7.25,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2018,2018
+Petrojet,53,27.4,5,135000.0,7.18,https://www.transfermarkt.com/petrojet/startseite/verein/10957/saison_id/2018,2018
+Tala'ea El Gaish,37,26.6,5,187000.0,6.93,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2018,2018
+El Mokawloon SC,39,26.5,5,144000.0,5.6,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2018,2018
+El Gouna FC,41,27.0,8,135000.0,5.53,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2018,2018
+Harras El Hodoud,49,27.9,9,112000.0,5.48,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2018,2018
+Entag El Harby,38,27.3,4,139000.0,5.28,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2018,2018
+El Dakhlia SC,44,25.9,6,107000.0,4.73,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2018,2018
+Nogoom FC,41,26.3,5,74000.0,3.03,https://www.transfermarkt.com/nogoom-fc/startseite/verein/41759/saison_id/2018,2018
+Al Ahly FC,45,25.9,7,618000.0,27.83,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2019,2019
+Zamalek SC,40,25.8,6,431000.0,17.25,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2019,2019
+Pyramids FC,31,27.3,5,489000.0,15.15,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2019,2019
+Tala'ea El Gaish,43,26.5,6,164000.0,7.05,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2019,2019
+Ittihad Alexandria SC,41,26.7,7,166000.0,6.8,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2019,2019
+Ismaily SC,37,24.2,5,179000.0,6.63,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2019,2019
+El Masry SC,41,25.6,7,154000.0,6.3,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2019,2019
+Enppi SC,38,26.2,4,162000.0,6.15,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2019,2019
+Smouha SC,35,25.9,6,164000.0,5.73,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2019,2019
+El Mokawloon SC,35,27.9,6,156000.0,5.45,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2019,2019
+Masr El Makasa,36,27.9,5,151000.0,5.45,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2019,2019
+Entag El Harby,37,27.1,5,132000.0,4.9,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2019,2019
+Wadi Degla FC,40,23.3,6,121000.0,4.85,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2019,2019
+El Gouna FC,33,26.9,4,129000.0,4.25,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2019,2019
+Harras El Hodoud,38,26.3,6,83000.0,3.15,https://www.transfermarkt.com/harras-el-hodoud/startseite/verein/12093/saison_id/2019,2019
+FC Masr,48,27.2,6,52000.0,2.5,https://www.transfermarkt.com/zed-fc/startseite/verein/47010/saison_id/2019,2019
+Aswan SC,43,26.2,5,57000.0,2.45,https://www.transfermarkt.com/aswan-sc/startseite/verein/22507/saison_id/2019,2019
+Tanta SC,43,27.0,5,49000.0,2.1,https://www.transfermarkt.com/tanta-sc/startseite/verein/23223/saison_id/2019,2019
+Al Ahly FC,45,25.8,7,673000.0,30.3,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2020,2020
+Zamalek SC,45,26.1,6,640000.0,28.8,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2020,2020
+Pyramids FC,41,28.1,9,542000.0,22.23,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2020,2020
+Smouha SC,45,26.6,9,201000.0,9.03,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2020,2020
+Ismaily SC,44,25.1,5,187000.0,8.23,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2020,2020
+Tala'ea El Gaish,40,26.1,5,194000.0,7.78,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2020,2020
+El Masry SC,33,27.5,5,212000.0,7.0,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2020,2020
+Enppi SC,45,26.2,4,154000.0,6.95,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2020,2020
+El Mokawloon SC,38,29.3,6,181000.0,6.88,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2020,2020
+Ittihad Alexandria SC,39,26.1,5,170000.0,6.63,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2020,2020
+Cleopatra FC,38,27.2,6,169000.0,6.43,https://www.transfermarkt.com/cleopatra-fc/startseite/verein/57439/saison_id/2020,2020
+Wadi Degla FC,37,25.4,5,159000.0,5.88,https://www.transfermarkt.com/wadi-degla-fc/startseite/verein/18234/saison_id/2020,2020
+Masr El Makasa,45,26.2,5,128000.0,5.78,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2020,2020
+El Gouna FC,35,26.7,6,161000.0,5.65,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2020,2020
+Bank El Ahly,34,28.4,5,159000.0,5.4,https://www.transfermarkt.com/bank-el-ahly/startseite/verein/62448/saison_id/2020,2020
+Entag El Harby,45,27.4,5,108000.0,4.88,https://www.transfermarkt.com/entag-el-harby/startseite/verein/23222/saison_id/2020,2020
+Aswan SC,58,26.7,4,82000.0,4.75,https://www.transfermarkt.com/aswan-sc/startseite/verein/22507/saison_id/2020,2020
+Ghazl El Mahalla,37,26.4,4,105000.0,3.88,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2020,2020
+Al Ahly FC,59,24.6,8,619000.0,36.54,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2021,2021
+Zamalek SC,58,25.4,7,476000.0,27.63,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2021,2021
+Pyramids FC,43,27.5,8,525000.0,22.58,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2021,2021
+Future FC,38,26.1,7,293000.0,11.13,https://www.transfermarkt.com/coca-cola-fc/startseite/verein/68770/saison_id/2021,2021
+El Masry SC,47,27.6,9,231000.0,10.85,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2021,2021
+Ismaily SC,52,25.3,9,179000.0,9.33,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2021,2021
+Smouha SC,52,25.5,9,157000.0,8.18,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2021,2021
+El Mokawloon SC,49,29.0,6,155000.0,7.6,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2021,2021
+Bank El Ahly,36,27.8,4,208000.0,7.48,https://www.transfermarkt.com/bank-el-ahly/startseite/verein/62448/saison_id/2021,2021
+Pharco FC,40,26.6,6,169000.0,6.78,https://www.transfermarkt.com/pharco-fc/startseite/verein/47058/saison_id/2021,2021
+Tala'ea El Gaish,37,26.8,6,182000.0,6.73,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2021,2021
+Ittihad Alexandria SC,38,27.4,6,167000.0,6.35,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2021,2021
+Cleopatra FC,37,28.1,7,158000.0,5.85,https://www.transfermarkt.com/cleopatra-fc/startseite/verein/57439/saison_id/2021,2021
+Enppi SC,40,26.1,3,136000.0,5.43,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2021,2021
+El Gouna FC,37,28.3,5,136000.0,5.05,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2021,2021
+Ghazl El Mahalla,35,27.3,4,131000.0,4.6,https://www.transfermarkt.com/ghazl-mahalla/startseite/verein/13446/saison_id/2021,2021
+Eastern Company SC,47,27.8,6,83000.0,3.9,https://www.transfermarkt.com/el-sharkia-dokhan/startseite/verein/30122/saison_id/2021,2021
+Masr El Makasa,47,24.8,6,73000.0,3.43,https://www.transfermarkt.com/masr-el-makasa/startseite/verein/22702/saison_id/2021,2021
+Al Ahly FC,55,25.0,11,678000.0,37.3,https://www.transfermarkt.com/el-ahly-kairo/startseite/verein/7/saison_id/2023,2023
+Pyramids FC,40,28.0,7,506000.0,20.23,https://www.transfermarkt.com/pyramids-fc/startseite/verein/44664/saison_id/2023,2023
+Zamalek SC,56,25.2,6,335000.0,18.75,https://www.transfermarkt.com/zamalek-sc/startseite/verein/664/saison_id/2023,2023
+Cleopatra FC,44,25.8,11,278000.0,12.25,https://www.transfermarkt.com/cleopatra-fc/startseite/verein/57439/saison_id/2023,2023
+El Masry SC,42,26.5,9,255000.0,10.73,https://www.transfermarkt.com/el-masry-sc/startseite/verein/9094/saison_id/2023,2023
+Modern Future FC,43,27.8,9,228000.0,9.8,https://www.transfermarkt.com/coca-cola-fc/startseite/verein/68770/saison_id/2023,2023
+Bank El Ahly,35,29.8,7,223000.0,7.8,https://www.transfermarkt.com/bank-el-ahly/startseite/verein/62448/saison_id/2023,2023
+Zed FC,50,26.3,8,143000.0,7.15,https://www.transfermarkt.com/zed-fc/startseite/verein/47010/saison_id/2023,2023
+Ittihad Alexandria SC,42,25.8,9,168000.0,7.08,https://www.transfermarkt.com/ittihad-alexandria/startseite/verein/3963/saison_id/2023,2023
+Tala'ea El Gaish,39,28.5,5,176000.0,6.88,https://www.transfermarkt.com/talaea-el-gaish/startseite/verein/9219/saison_id/2023,2023
+Pharco FC,45,25.6,8,142000.0,6.4,https://www.transfermarkt.com/pharco-fc/startseite/verein/47058/saison_id/2023,2023
+Smouha SC,44,25.1,8,139000.0,6.13,https://www.transfermarkt.com/smouha-sc/startseite/verein/23387/saison_id/2023,2023
+El Mokawloon SC,51,26.7,9,119000.0,6.08,https://www.transfermarkt.com/el-mokawloon-sc/startseite/verein/3369/saison_id/2023,2023
+Enppi SC,43,24.5,4,137000.0,5.9,https://www.transfermarkt.com/enppi-sc/startseite/verein/9218/saison_id/2023,2023
+Ismaily SC,56,24.8,4,100000.0,5.58,https://www.transfermarkt.com/ismaily-sc/startseite/verein/3595/saison_id/2023,2023
+Baladiyat El Mahalla,52,25.5,11,94000.0,4.9,https://www.transfermarkt.com/baladiya-mahalla/startseite/verein/9093/saison_id/2023,2023
+El Gouna FC,43,25.5,9,111000.0,4.78,https://www.transfermarkt.com/el-gouna-fc/startseite/verein/20572/saison_id/2023,2023
+El Dakhlia SC,55,25.7,7,78000.0,4.3,https://www.transfermarkt.com/el-dakhlia-sc/startseite/verein/22707/saison_id/2023,2023
